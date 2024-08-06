@@ -21,9 +21,9 @@ const illustration = {
 
 const greeting = {
   username: "Neil Varia",
-  title: "Hi all, I'm Neil",
+  title: "Hi, I'm Neil",
   subTitle: emoji(
-    "A passionate and driven Software Engineer 🚀 completing my final year of Computer Science & Artifical Intelligence @ Loughborough University "
+    "A passionate and driven Software Engineer 🚀 currently completing my final year of Computer Science & Artifical Intelligence @ Loughborough University "
   ),
   resumeLink: "", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
