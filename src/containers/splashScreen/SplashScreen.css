@@ -15,8 +15,8 @@
   text-decoration: none;
 }
 .splash-title {
-  font-family: "Agustina Regular", cursive;
-  font-weight: bold;
+  font-family: "Ubuntu Mono";
+  /* font-weight: bold; */
   font-variant-ligatures: no-common-ligatures;
   -webkit-font-variant-ligatures: no-common-ligatures;
   padding: 0 20px;

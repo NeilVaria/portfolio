@@ -6,6 +6,16 @@
     url("./assets/fonts/Agustina.woff") format("woff");
   font-display: swap;
 }
+
+@font-face {
+  font-family: "Ubuntu Mono";
+  font-style: normal;
+  font-weight: normal;
+  src: local("Agustina Regular"),
+    url("./assets/fonts/UbuntuMono-Regular.ttf") format("woff");
+  font-display: swap;
+}
+
 @font-face {
   font-family: "Montserrat";
   src: local("Montserrat"),

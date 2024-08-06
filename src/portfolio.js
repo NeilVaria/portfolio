@@ -23,7 +23,7 @@ const greeting = {
   username: "Neil Varia",
   title: "Hi all, I'm Neil",
   subTitle: emoji(
-    "A passionate Full Stack Software Developer 🚀 having an experience of building Web and Mobile applications with JavaScript / Reactjs / Nodejs / React Native and some other cool libraries and frameworks."
+    "A passionate and driven Software Engineer 🚀 completing my final year of Computer Science & Artifical Intelligence @ Loughborough University "
   ),
   resumeLink: "", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
@@ -202,8 +202,9 @@ const openSource = {
 // Some big projects you have worked on
 
 const bigProjects = {
-  title: "Big Projects",
-  subtitle: "SOME STARTUPS AND COMPANIES THAT I HELPED TO CREATE THEIR TECH",
+  title: "Projects",
+  subtitle:
+    "Here are some projects that I have worked on, showcasing my diverse skills and passion for software development",
   projects: [
     {
       image: require("./assets/images/saayaHealthLogo.webp"),
