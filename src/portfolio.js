@@ -128,11 +128,8 @@ const educationInfo = {
       logo: require("./assets/images/loughboroughLogo.png"),
       subHeader: "Computer Science and Artificial Intelligence BSc",
       duration: "September 2021 - June 2025",
-      desc: "Participated in the research of XXX and published 3 papers.",
-      descBullets: [
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
-      ]
+      desc: "Currently studying in my final year of my degree, with a focus on software engineering, AI and machine learning.",
+      descBullets: []
     }
   ]
 };
@@ -168,25 +165,22 @@ const workExperiences = {
       company: "Airbus Defence and Space",
       companylogo: require("./assets/images/airbusDSLogo.jpeg"),
       date: "Jul 2023 – Jul 2024",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-      descBullets: [
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
-      ]
+      desc: "Undertoook a year long placement at Airbus Defence and Space, working on a variety of projects including the development of a neural network model to make thermal spacecraft predictions, and an internal plugin tool to stream simulator parameters using Kafka.",
+      descBullets: []
     },
     {
       role: "Web Development + Systems Management Intern",
       company: "Redline Tuning",
       companylogo: require("./assets/images/redlineLogo.png"),
       date: "Jul 2022 – Aug 2022",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      desc: "A summer internship at Redline Tuning, where I worked on the development of the eccomerce sites and the management of stock and inverntory systems."
     },
     {
       role: "Freelance Computer Technician",
       company: "Neil Varia IT Solutions",
       companylogo: require("./assets/images/nvitLogo.png"),
       date: "Aug 2020 – Aug 2022",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      desc: "Freealnce computer technician, providing IT support and solutions to local businesses and individuals."
     }
   ]
 };
@@ -230,7 +224,7 @@ const bigProjects = {
       ]
     }
   ],
-  display: true // Set false to hide this section, defaults to true
+  display: false // Set false to hide this section, defaults to true
 };
 
 // Achievement Section
